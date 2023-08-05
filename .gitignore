@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+.env
+.flaskenv
+.tox/
+.cache/
+.pytest_cache/
